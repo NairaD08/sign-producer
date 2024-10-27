@@ -19,7 +19,7 @@ function generateSVG(shape, text, textColor, shapeColor) {
     `;
 }
 
-// Prompt user for input
+// Prompt user for their input
 inquirer
   .prompt([
     {
