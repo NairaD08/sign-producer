@@ -56,4 +56,4 @@ To get started with Sign Producer, follow these steps:
 
 Thank you for using Sign Producer! We hope it helps you create unique and personalized logos with ease. Happy designing!
 
- ![image alt]()
+ ![image alt](https://github.com/NairaD08/sign-producer/blob/13f5bb144e847546926155488edbd2dc3f361511/Screenshot%202024-10-27%20161554.png)
