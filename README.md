@@ -55,3 +55,5 @@ To get started with Sign Producer, follow these steps:
 - **User Interface**: Develop a graphical user interface (GUI) for users who prefer a visual approach.
 
 Thank you for using Sign Producer! We hope it helps you create unique and personalized logos with ease. Happy designing!
+
+ ![image alt]()
