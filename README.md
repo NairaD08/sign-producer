@@ -58,4 +58,5 @@ Thank you for using Sign Producer! We hope it helps you create unique and person
 
  ![image alt](https://github.com/NairaD08/sign-producer/blob/13f5bb144e847546926155488edbd2dc3f361511/Screenshot%202024-10-27%20161554.png)
 
- ![Watch the video](https://app.screencastify.com/v3/watch/Jr8okaONAwSdSQC0VKzz)
+![Project 10 (1)](https://github.com/user-attachments/assets/0c4a4818-60c0-4804-880b-ae75a61d257c)
+
